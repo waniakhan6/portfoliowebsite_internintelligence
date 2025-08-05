@@ -24,3 +24,6 @@ CSS3 – Flexbox, Grid, and animations
 JavaScript (ES6+) – DOM manipulation & scroll effects
 
 Google Fonts – Poppins for modern typography
+📸 Preview
+<img width="1923" height="2538" alt="image" src="https://github.com/user-attachments/assets/14945869-9bdb-4101-91b0-5785888e9950" />
+
